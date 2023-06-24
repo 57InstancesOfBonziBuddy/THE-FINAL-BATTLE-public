@@ -1,0 +1,15 @@
+C:\Users\adifo\Desktop\C# learny bois\THE FINAL BATTLE\bin\Debug\net6.0\The Final Battle.exe
+C:\Users\adifo\Desktop\C# learny bois\THE FINAL BATTLE\bin\Debug\net6.0\The Final Battle.deps.json
+C:\Users\adifo\Desktop\C# learny bois\THE FINAL BATTLE\bin\Debug\net6.0\The Final Battle.runtimeconfig.json
+C:\Users\adifo\Desktop\C# learny bois\THE FINAL BATTLE\bin\Debug\net6.0\The Final Battle.dll
+C:\Users\adifo\Desktop\C# learny bois\THE FINAL BATTLE\bin\Debug\net6.0\The Final Battle.pdb
+C:\Users\adifo\Desktop\C# learny bois\THE FINAL BATTLE\obj\Debug\net6.0\The Final Battle.csproj.AssemblyReference.cache
+C:\Users\adifo\Desktop\C# learny bois\THE FINAL BATTLE\obj\Debug\net6.0\The Final Battle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adifo\Desktop\C# learny bois\THE FINAL BATTLE\obj\Debug\net6.0\The Final Battle.AssemblyInfoInputs.cache
+C:\Users\adifo\Desktop\C# learny bois\THE FINAL BATTLE\obj\Debug\net6.0\The Final Battle.AssemblyInfo.cs
+C:\Users\adifo\Desktop\C# learny bois\THE FINAL BATTLE\obj\Debug\net6.0\The Final Battle.csproj.CoreCompileInputs.cache
+C:\Users\adifo\Desktop\C# learny bois\THE FINAL BATTLE\obj\Debug\net6.0\The Final Battle.dll
+C:\Users\adifo\Desktop\C# learny bois\THE FINAL BATTLE\obj\Debug\net6.0\refint\The Final Battle.dll
+C:\Users\adifo\Desktop\C# learny bois\THE FINAL BATTLE\obj\Debug\net6.0\The Final Battle.pdb
+C:\Users\adifo\Desktop\C# learny bois\THE FINAL BATTLE\obj\Debug\net6.0\The Final Battle.genruntimeconfig.cache
+C:\Users\adifo\Desktop\C# learny bois\THE FINAL BATTLE\obj\Debug\net6.0\ref\The Final Battle.dll
