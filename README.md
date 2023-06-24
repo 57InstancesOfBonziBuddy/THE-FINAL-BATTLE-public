@@ -1,3 +1,7 @@
+I'd like to say some things before we get to the nitty-gritty. First of all, thank you RB Whitaker for not only writing one of the best technical books I've ever had the pleasure of reading, but also supporting the community around it with your insights, reviews and helpful comments. It's thanks to your work that my dumb ass, and many other more intelligent asses, actually managed to learn how to program, something I personally did not think myself capable of just a short while ago. I've hardly been unable to put the book down the past few months and have actually been looking forward to working on my challenges, which was only possible owing to your way of explaining, teaching and showing programming concepts in a way that's approachable. I'm actually a little sad now that I've reached the end of the book, but like you wrote in the epilogue: This is only the start of a greater journey.
+I'd also like to thank everyone else in the C# Player's Guide Discord who helped out with answering my questions and fixing my mistakes. Y'all are real ones.
+
+
 Everything is done according to the challenges in the book, but some deviations were added during "Making it yours":
 - Inventories are split in two between gear and items
 - Attack Modifiers are technically a type of item, just one that can't explicitly be used or equipped/unequipped
